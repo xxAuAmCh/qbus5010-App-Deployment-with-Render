@@ -1,3 +1,6 @@
+!pip install dash-bootstrap-components
+!pip install folium
+
 import pandas as pd
 import plotly.express as px
 import dash
